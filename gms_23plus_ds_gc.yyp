@@ -2,7 +2,9 @@
   "resources": [
     {"id":{"name":"tester","path":"objects/tester/tester.yy",},"order":0,},
     {"id":{"name":"gc_wip_scripts","path":"scripts/gc_wip_scripts/gc_wip_scripts.yy",},"order":0,},
+    {"id":{"name":"ds_map","path":"scripts/ds_map/ds_map.yy",},"order":1,},
     {"id":{"name":"watcher","path":"objects/watcher/watcher.yy",},"order":1,},
+    {"id":{"name":"ds_list","path":"scripts/ds_list/ds_list.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
