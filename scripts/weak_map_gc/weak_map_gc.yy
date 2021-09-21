@@ -6,7 +6,7 @@
     "path": "folders/Scripts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "gc_wip_scripts",
+  "name": "weak_map_gc",
   "tags": [],
   "resourceType": "GMScript",
 }
